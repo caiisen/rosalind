@@ -3,6 +3,6 @@ a = 29
 b = 36
 c = 127
 d = 131
-#out = letters[a:b] + '' + letters[c:d]
-print(letters[a:b+1], letters[c:d+1])
+out = letters[a:b] + ' ' + letters[c:d]
+print(out)
 
